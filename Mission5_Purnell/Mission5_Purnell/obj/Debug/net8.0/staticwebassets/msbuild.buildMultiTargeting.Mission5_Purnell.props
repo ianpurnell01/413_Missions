@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission5_Purnell.props" />
+</Project>
