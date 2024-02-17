@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ipurnell\\source\\repos\\Mission5_Purnell\\Mission5_Purnell\\Mission5_Purnell.csproj",
+      "projectUniqueName": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission5_Purnell\\Mission5_Purnell\\Mission5_Purnell.csproj",
       "projectName": "Mission5_Purnell",
-      "projectPath": "C:\\Users\\ipurnell\\source\\repos\\Mission5_Purnell\\Mission5_Purnell\\Mission5_Purnell.csproj",
+      "projectPath": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission5_Purnell\\Mission5_Purnell\\Mission5_Purnell.csproj",
       "packagesPath": "C:\\Users\\ipurnell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ipurnell\\source\\repos\\Mission5_Purnell\\Mission5_Purnell\\obj\\",
+      "outputPath": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission5_Purnell\\Mission5_Purnell\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ipurnell\\AppData\\Roaming\\NuGet\\NuGet.Config",
