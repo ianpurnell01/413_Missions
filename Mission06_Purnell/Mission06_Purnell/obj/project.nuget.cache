@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jzh8L5zPoe9gVS1BfA9DYvZTrh3hy80czQ+qyplPMjdzwykvbevwhBPhH6rHS25XYzwaQnk8LEGk3akWsNdWwg==",
+  "dgSpecHash": "MUP4Ph9egBIiWpXfIErpKX4a8002uLXX7wBu1hMFRApY1RWn0tt1pWpvUZ57DexccRb32JlBZcNEOlUFVGhaDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ipurnell\\source\\repos\\Mission06_Purnell\\Mission06_Purnell\\Mission06_Purnell.csproj",
+  "projectFilePath": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission06_Purnell\\Mission06_Purnell\\Mission07_Purnell.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ipurnell\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ipurnell\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
