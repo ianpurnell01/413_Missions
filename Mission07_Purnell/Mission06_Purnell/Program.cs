@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Mission06_Purnell.Models;
+using Mission07_Purnell.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

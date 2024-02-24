@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\views\\home\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\views\\home\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\views\\home\\newmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\views\\home\\newmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\views\\home\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\views\\home\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\views\\home\\movielist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\models\\newmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\models\\newmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\models\\newmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\models\\newmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|c:\\users\\ipurnell\\source\\repos\\missions\\mission07_purnell\\mission06_purnell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF77A0D-A36F-4332-BE57-10B8D400F72B}|Mission06_Purnell\\Mission07_Purnell.csproj|solutionrelative:mission06_purnell\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Confirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
-              "RelativeDocumentMoniker": "Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
-              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
-              "RelativeToolTip": "Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Title": "NewMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\NewMovie.cshtml",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Views\\Home\\NewMovie.cshtml",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\NewMovie.cshtml",
+              "RelativeToolTip": "Mission06_Purnell\\Views\\Home\\NewMovie.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-22T15:11:52.899Z",
+              "WhenOpened": "2024-02-24T04:30:39.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovieList.cshtml",
-              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
-              "RelativeDocumentMoniker": "Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
-              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
-              "RelativeToolTip": "Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-22T14:20:48.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewMovie.cs",
-              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovie.cs",
-              "RelativeDocumentMoniker": "Mission06_Purnell\\Models\\NewMovie.cs",
-              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovie.cs",
-              "RelativeToolTip": "Mission06_Purnell\\Models\\NewMovie.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T04:37:50.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Mission06_Purnell\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Mission06_Purnell\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAgAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAD4vyAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T04:37:44.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
+              "RelativeToolTip": "Mission06_Purnell\\Views\\Home\\Confirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T05:12:04.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewMovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovieContext.cs",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Models\\NewMovieContext.cs",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovieContext.cs",
+              "RelativeToolTip": "Mission06_Purnell\\Models\\NewMovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:12:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
+              "RelativeToolTip": "Mission06_Purnell\\Views\\Home\\MovieList.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T04:00:21.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewMovie.cs",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovie.cs",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Models\\NewMovie.cs",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\NewMovie.cs",
+              "RelativeToolTip": "Mission06_Purnell\\Models\\NewMovie.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:10:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Models\\Category.cs",
+              "RelativeToolTip": "Mission06_Purnell\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:30:33.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Program.cs",
+              "RelativeDocumentMoniker": "Mission06_Purnell\\Program.cs",
+              "ToolTip": "C:\\Users\\ipurnell\\source\\repos\\Missions\\Mission07_Purnell\\Mission06_Purnell\\Program.cs",
+              "RelativeToolTip": "Mission06_Purnell\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T02:12:54.563Z",
               "EditorCaption": ""
             }
           ]

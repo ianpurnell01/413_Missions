@@ -1,10 +1,15 @@
 ﻿@model NewMovie
 <h1>Add a Movie to the Collection</h1>
 <form method="post">
-@*     <input type="hidden" asp-for="MovieId" />
- *@
-    <label asp-for="Category">Category:</label>
-    <input asp-for="Category"/>
+    <input type="hidden" asp-for="MovieId" />
+
+    <label asp-for="CategoryId">Category:</label>
+    <select asp-for="CategoryId">
+        @foreach (Category c in ViewBag.Categories)
+        {
+            <option value="@c.CategoryId">@c.CategoryName</option>
+        }
+    </select>
     <br />
     <label asp-for="Title">Title:</label>
     <input asp-for="Title" />
@@ -32,8 +37,13 @@
     <label asp-for="LentTo">Lent To:</label>
     <input asp-for="LentTo" />
     <br />
+    <label asp-for="CopiedToPlex">Copied to Plex:</label>
+    <input asp-for="CopiedToPlex" />
+    <br />
     <label asp-for="Notes">Notes:</label>
     <input asp-for="Notes" />
     <br />
     <button type="submit">Submit Movie</button>
+
+    <div asp-validation-summary="All"></div>
 </form>

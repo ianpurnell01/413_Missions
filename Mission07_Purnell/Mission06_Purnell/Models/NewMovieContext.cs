@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
 
-namespace Mission06_Purnell.Models
+namespace Mission07_Purnell.Models
 {
     public class NewMovieContext : DbContext
     {
-        public NewMovieContext(DbContextOptions<NewMovieContext> options) : base (options)
+        public NewMovieContext(DbContextOptions<NewMovieContext> options) : base(options)
         {
         }
 
         public DbSet<NewMovie> Movies { get; set; }
+        public DbSet<Category> Categories { get; set; }
     }
 }

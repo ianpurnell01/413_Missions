@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission07_Purnell")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49c914c27d87b24a7b4b351f0976896c4bd9a6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff706a4a6fbd087351f3fbd099619fde40910e94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission07_Purnell")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission07_Purnell")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
